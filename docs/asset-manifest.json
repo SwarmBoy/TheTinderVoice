@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TheTinderVoice/static/css/main.327d9215.css",
-    "main.js": "/TheTinderVoice/static/js/main.90706b14.js",
-    "static/js/453.f9fedc72.chunk.js": "/TheTinderVoice/static/js/453.f9fedc72.chunk.js",
+    "main.css": "/TheTinderVoice/static/css/main.0c735560.css",
+    "main.js": "/TheTinderVoice/static/js/main.213c7852.js",
+    "static/js/453.1f01afeb.chunk.js": "/TheTinderVoice/static/js/453.1f01afeb.chunk.js",
     "index.html": "/TheTinderVoice/index.html",
-    "main.327d9215.css.map": "/TheTinderVoice/static/css/main.327d9215.css.map",
-    "main.90706b14.js.map": "/TheTinderVoice/static/js/main.90706b14.js.map",
-    "453.f9fedc72.chunk.js.map": "/TheTinderVoice/static/js/453.f9fedc72.chunk.js.map"
+    "main.0c735560.css.map": "/TheTinderVoice/static/css/main.0c735560.css.map",
+    "main.213c7852.js.map": "/TheTinderVoice/static/js/main.213c7852.js.map",
+    "453.1f01afeb.chunk.js.map": "/TheTinderVoice/static/js/453.1f01afeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.327d9215.css",
-    "static/js/main.90706b14.js"
+    "static/css/main.0c735560.css",
+    "static/js/main.213c7852.js"
   ]
 }
