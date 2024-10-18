@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TheTinderVoice/static/css/main.327d9215.css",
-    "main.js": "/TheTinderVoice/static/js/main.ad50e674.js",
+    "main.js": "/TheTinderVoice/static/js/main.90706b14.js",
     "static/js/453.f9fedc72.chunk.js": "/TheTinderVoice/static/js/453.f9fedc72.chunk.js",
     "index.html": "/TheTinderVoice/index.html",
     "main.327d9215.css.map": "/TheTinderVoice/static/css/main.327d9215.css.map",
-    "main.ad50e674.js.map": "/TheTinderVoice/static/js/main.ad50e674.js.map",
+    "main.90706b14.js.map": "/TheTinderVoice/static/js/main.90706b14.js.map",
     "453.f9fedc72.chunk.js.map": "/TheTinderVoice/static/js/453.f9fedc72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.327d9215.css",
-    "static/js/main.ad50e674.js"
+    "static/js/main.90706b14.js"
   ]
 }
